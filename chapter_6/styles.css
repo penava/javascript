@@ -1,0 +1,15 @@
+.error
+{
+    color: crimson;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px dotted crimson;
+}
+.success
+{
+    color: limegreen;
+    font-size: larger;
+    font-weight: bold;
+    border: 1px dotted limegreen;
+    padding: 10px;
+}
